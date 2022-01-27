@@ -1,6 +1,7 @@
 # Composer
 /composer.lock
 /vendor
+.idea
 
 # Docker
 /.env
